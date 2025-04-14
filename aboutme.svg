@@ -3,7 +3,6 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
               .content {
-                color: #fff;
                 font-family: Arial, sans-serif;
               }
               .container {
