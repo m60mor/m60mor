@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Michał Moryc. Here are few words about me:
-<div>
-    <img src="aboutme.svg" width="100%" alt="css-in-readme">
-</div>
+<picture>
+  <source srcset="aboutme-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="aboutme-light.svg" width="100%" alt="about me">
+</picture>
